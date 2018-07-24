@@ -1,2 +1,3 @@
 # Exclude for Geolocation App Repo
 sfdx/*
+.sfdx/*
